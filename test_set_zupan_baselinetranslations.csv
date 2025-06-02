@@ -1,0 +1,96 @@
+,Sentence,Emotion,de_baseline,ru_baseline,pl_baseline
+0,That dog is such a character.,Amusement,Dieser Hund ist so ein Charakter.,Этот собака такой характер.,Ten pies jest taki charakter.
+1,The look on your face was priceless.,Amusement,Der Blick auf dein Gesicht war unschätzbar.,Выгляд на твоем лице был бесценным.,Wygląd na twarzy był bezcenny.
+2,That was entertaining.,Amusement,Das war unterhaltsam.,Это было забавно.,To było zabawne.
+3,That was priceless.,Amusement,Das war unschätzbar.,Это было бесценное.,Było to bezcenne.
+4,What a funny joke!,Amusement,Was für ein lustiger Witz!,Какая смешная шутка!,Co za zabawny żart!
+5,Did you see that cute cat video?,Amusement,Haben Sie das niedliche Katze Video gesehen?,Посмотрите видео с симпатичным котом?,Czy widzieliście to słodkie wideo kotów?
+6,What a clever commercial.,Amusement,Was für eine kluge Werbung.,Какая умная реклама.,Jaka mądra reklama.
+7,"If you do that again, I’m going to lose it.",Anger,"Wenn du das wieder machst, werde ich es verlieren.","Если вы сделаете это снова, я потеряю его.","Jeśli uczynisz to ponownie, stracę go."
+8,That’s not fair!,Anger,Das ist nicht fair!,Это несправедливо!,To nie jest sprawiedliwe!
+9,They just kept picking on her.,Anger,Sie hielten sich nur an ihr fest.,Они просто продолжали забирать ее.,Po prostu trzymał się jej.
+10,This is so nerve wracking.,Anxiety,Das ist so nervös.,Это так нервное расстройство.,To jest tak nerve wracking.
+11,My palms are all sweaty.,Anxiety,Meine Handflächen sind alle verschwitzt.,Мои ладони потят.,Moje dłonie są wszystkie potne.
+12,I’m feeling jumpy today.,Anxiety,Ich fühle mich heute sprungig.,Я чувствую себя прыгающим сегодня.,Czuję się dziś wstrząśnięty.
+13,But what if they don’t like me?,Anxiety,"Aber was, wenn sie mich nicht mögen?","Но что, если они не любят меня?","Ale co, jeśli nie lubią mnie?"
+14,I can’t stop thinking about it.,Anxiety,Ich kann nicht aufhören darüber nachzudenken.,Я не могу перестать думать об этом.,Nie mogę przestać o tym myśleć.
+15,We need to talk.,Anxiety,Wir müssen sprechen.,Мы должны поговорить.,Musimy porozmawiać.
+16,I am so tense right now.,Anxiety,Ich bin jetzt so angespannt.,Я очень напряженный сейчас.,Jestem tak napięty teraz.
+17,My heart is pounding.,Anxiety,Mein Herz klopft.,Мое сердце пульсирует.,Moje serce pęknie.
+18,I’m so sorry for your loss.,Compassion,Ich bedaure mich sehr für deinen Verlust.,Я так сожалею за вашу потерю.,Bardzo żałuję za swoją stratę.
+19,How are you holding up?,Compassion,Wie hältst du dich auf?,Как вы держите?,Jak się trzymasz?
+20,Are you okay?,Compassion,Sind Sie okay?,Вы в порядке?,Czy jesteś w porządku?
+21,I don’t like seeing you so down.,Compassion,"Ich mag es nicht, dich so herunter zu sehen.",Я не люблю видеть вас так вниз.,Nie lubię widzieć ciebie tak w dół.
+22,It’s good to see you’re okay.,Compassion,"Es ist gut zu sehen, dass Sie okay sind.","Хорошо видеть, что ты в порядке.","Dobrze jest zobaczyć, że jesteś w porządku."
+23,I’m sorry you’re going through that.,Compassion,"Ich entschuldige mich, dass Sie durch das gehen.","Мне жаль, что вы проходите через это.","Przykro mi, że przechodzisz przez to."
+24,"Oh, that poor man!",Compassion,"Oh, der arme Mann!","О, этот бедный человек!","Ach, ten biedny człowiek!"
+25,Please let me help you.,Compassion,Bitte lassen Sie mich Ihnen helfen.,Позвольте мне помочь вам.,Proszę pozwolić mi pomóc.
+26,She was so tender with him.,Compassion,Sie war so zärtlich mit ihm.,Она была так нежной с ним.,Była tak czuła do niego.
+27,I’m so relaxed.,Contentment,Ich bin so entspannt.,Я так расслаблен.,Jestem tak zrelaksowany.
+28,I feel so comfortable here.,Contentment,Ich fühle mich hier so wohl.,Мне здесь очень удобно.,Czuję się tutaj bardzo komfortowo.
+29,This is the life.,Contentment,Das ist das Leben.,Это жизнь.,To jest życie.
+30,This is paradise.,Contentment,Das ist ein Paradies.,Это рай.,To jest raj.
+31,It’s such a pretty place.,Contentment,Es ist so ein schöner Ort.,Это очень красивое место.,To takie piękne miejsce.
+32,I don’t have a care in the world!,Contentment,Ich habe keine Sorge in der Welt!,У меня нет заботы в мире!,Nie mam troski na świecie!
+33,This is so peaceful.,Contentment,Das ist so friedlich.,Это так мирно.,To jest tak spokojne.
+34,This is perfect.,Contentment,Das ist perfekt.,Это совершенно.,To jest doskonałe.
+35,That smells horrible.,Disgust,Das riecht schrecklich.,Это ужасно.,To pachnie okropnie.
+36,I’m not eating that.,Disgust,Ich esse das nicht.,Я не едю этого.,Nie jem tego.
+37,I’m not touching that.,Disgust,Ich berühre das nicht.,Я не касаюсь этого.,Nie dotykam tego.
+38,That looks hideous.,Disgust,Das sieht schrecklich aus.,Это выглядит ужасно.,To wygląda okropnie.
+39,That news turned my stomach.,Disgust,Diese Nachricht drehte meinen Magen.,Эта новость переворачивает мой желудок.,Ta wiadomość obróciła mój żołądek.
+40,That is really gross!,Disgust,Das ist wirklich schrecklich!,Это действительно ужасно!,To naprawdę gwałtownie!
+41,That tastes awful.,Disgust,Das schmeckt schrecklich.,Это ужасно.,To smakuje okropnie.
+42,What is that smell?,Disgust,Was ist dieser Geruch?,Что это за запах?,Czym jest ten zapach?
+43,Who would do something like that?,Disgust,Wer würde so etwas tun?,Кто бы сделал что-то подобное?,Kto zrobiłby coś takiego?
+44,Stop! I think there’s something in there.,Fear,"Stoppen! Ich denke, da ist etwas dabei.","Я думаю, что в нем что-то есть.","Przestań! Myślę, że tam coś jest."
+45,I couldn’t have asked for anything better.,Happiness,Ich hätte nichts besseres gefragt.,Я не мог попросить ничего лучшего.,Nie mógłbym prosić o coś lepszego.
+46,You got the part.,Happiness,Du hast den Teil.,Вы получили роль.,Masz część.
+47,What have you got there?,Interest,Was hast du da?,Что у вас там есть?,Co tam masz?
+48,What are you doing this weekend?,Interest,Was machst du an diesem Wochenende?,Что вы делаете в эти выходные?,Co robisz tego weekendu?
+49,Tell me everything.,Interest,Sage mir alles.,Скажите мне все.,Powiedz mi wszystko.
+50,How was the drive?,Interest,Wie war der Antrieb?,Как же было движение?,Jak był napęd?
+51,Guess what I just heard?,Interest,Wisse was ich gerade gehört habe?,"Угадайте, что я только что услышал?","Wiedzcie, co właśnie usłyszałem?"
+52,I can’t wait to hear more.,Interest,"Ich kann nicht warten, mehr zu hören.","Я не могу не дождаться, чтобы услышать больше.","Nie mogę się doczekać, aby usłyszeć więcej."
+53,That is fascinating!,Interest,Das ist faszinierend!,Это увлекательно!,To jest fascynujące!
+54,Why do you think that happened?,Interest,"Warum denken Sie, dass das passiert ist?","Почему вы думаете, что это произошло?","Dlaczego uważasz, że to się stało?"
+55,I like a good challenge.,Interest,Ich mag eine gute Herausforderung.,Мне нравится хороший вызов.,Lubię dobry wyzwanie.
+56,I’m so sick of this commercial.,Irritation,Ich bin so müde von dieser Werbung.,Я так оскучен этой рекламой.,Jestem tak zły z tej reklamy.
+57,My patience is wearing thin.,Irritation,Meine Geduld ist schwach geworden.,Мое терпение становится скучным.,Moja cierpliwość jest słaba.
+58,I’m so over this.,Irritation,Ich bin so über das.,Я так пережила это.,Jestem tak nad tym.
+59,That referee needs his eyes checked.,Irritation,Dieser Schiedsrichter braucht seine Augen überprüft.,"Этот судья нуждается в том, чтобы проверить глаза.",Ten sędzia potrzebuje sprawdzonych oczu.
+60,Leave me alone.,Irritation,Lassen Sie mich allein.,Оставьте меня наедине.,Pozostaw mnie w spokoju.
+61,I can’t believe those people.,Irritation,Ich kann diesen Leuten nicht glauben.,Я не могу поверить этим людям.,Nie mogę uwierzyć tym ludziom.
+62,You’ve asked me that a thousand times!,Irritation,Du hast mich das tausendmal gefragt!,Ты спросил меня об этом тысячу раз!,Pytałeś mnie o to tysiąc razy!
+63,That really gets on my nerves.,Irritation,Das macht mich wirklich nervös.,Это действительно волнует меня.,To naprawdę kręci mnie na nervy.
+64,It’s driving me up the wall.,Irritation,Es treibt mich auf die Wand.,Это приводит меня вверх по стене.,To napędza mnie w górę ściany.
+65,I really wish I didn’t have to do this.,Irritation,"Ich wünschte wirklich, dass ich das nicht tun musste.","Я действительно хотел бы, чтобы мне не приходилось это делать.","Chciałbym, żeby nie musiałem tego robić."
+66,How could they ignore that?,Irritation,Wie konnten sie das ignorieren?,Как они могли это игнорировать?,Jak mogliby tego ignorować?
+67,"Oh no, not again!",Irritation,"Oh nein, nicht wieder!","О нет, не снова!","O nie, już nie!"
+68,I stand up for what I believe in.,Pride,"Ich stehe für das, in was ich glaube.","Я выступаю за то, в что верю.","Stoję za to, w co wierzę."
+69,I fight my own battles.,Pride,Ich bekämpfe meine eigenen Kämpfe.,Я борюсь своими силами.,Walczę w swoich własnych bitwach.
+70,"I didn’t think I could do it, but I did.",Pride,"Ich dachte nicht, ich könnte es tun, aber ich tat es.","Я не думал, что могу это сделать, но я сделал.","Nie myślałem, że mogę to zrobić, ale zrobiłem."
+71,I finally did it.,Pride,Ich habe es endlich geschafft.,Я наконец-то это сделал.,Ostatecznie udało mi się to zrobić.
+72,I feel so good about winning that.,Pride,"Ich fühle mich so gut darüber, dass ich das gewinnen kann.",Я так хорошо чувствую себя о победе в этом.,"Czuję się tak dobrze, że wygrałem to."
+73,Look at how well you did.,Pride,"Sehen Sie, wie gut Sie haben.","Посмотрите, как хорошо вы сделали.",Patrz jak dobrze zrobiłeś.
+74,"I think I did very well, myself.",Pride,"Ich denke, ich habe mich selbst sehr gut gemacht.","Я думаю, что я очень хорошо, сам.","Myślę, że sam zrobiłem bardzo dobrze."
+75,You handled that really well.,Pride,Du hast das wirklich gut gehandhabt.,Вы справились с этим очень хорошо.,Bardzo dobrze się z tym poradziłeś.
+76,You’re so good at that.,Pride,Du bist so gut daran.,Вы так хорошо в этом.,Jesteś tak dobry w tym.
+77,I’m so glad that’s over.,Relief,"Ich bin so froh, dass das vorbei ist.","Я очень рад, что это закончилось.","Cieszę się, że to się skończyło."
+78,That was easier than I expected.,Relief,Das war einfacher als ich erwartet hatte.,"Это было проще, чем я ожидал.",Było to łatwiejsze niż się spodziewałem.
+79,Don’t worry me like that again.,Relief,Sorgen Sie mich nicht mehr so.,Не волнуйтесь меня так снова.,Nie martw się o mnie tak znowu.
+80,That’s a huge weight off my mind.,Relief,Das ist ein riesiges Gewicht aus meinem Kopf.,Это огромный вес у меня в голове.,To ogromna waga z mojego umysłu.
+81,I can breathe again.,Relief,Ich kann wieder atmen.,Я снова могу дышать.,Mogę ponownie oddychać.
+82,It’s finally over with.,Relief,Es ist endlich vorbei.,"Это, наконец, закончилось.",Ostatecznie skończyło się.
+83,I’m so glad you’re okay.,Relief,"Ich bin so froh, dass du okay bist.","Я очень рад, что вы в порядке.","Cieszę się, że jesteś w porządku."
+84,I never saw that coming.,Surprise,Das habe ich nie gesehen.,Я никогда не видел этого.,Nigdy tego nie widziałem.
+85,Fancy seeing you here.,Surprise,Fancy Sie hier zu sehen.,Желаю видеть вас здесь.,Chciałbym cię tu zobaczyć.
+86,I can’t believe I just saw that.,Surprise,"Ich kann nicht glauben, dass ich das gerade gesehen habe.","Я не могу поверить, что я только что увидел это.","Nie mogę uwierzyć, że właśnie widziałem to."
+87,Where did that come from?,Surprise,Woher kam das?,Где это произошло?,Odkąd się to stało?
+88,How did you do that so quickly?,Surprise,Wie hast du das so schnell gemacht?,Как вы сделали это так быстро?,Jak to zrobiłeś tak szybko?
+89,"Wow, I never expected that!",Surprise,"Wow, das habe ich nie erwartet!","Вау, я так и не ожидал!","Wow, nigdy tego nie spodziewałem się!"
+90,Who would have thought that would happen?,Surprise,"Wer hätte gedacht, dass das passieren würde?","Кто мог подумать, что это произойдет?","Kto by pomyślał, że tak się stanie?"
+91,I don’t believe it.,Surprise,Ich glaube es nicht.,Я не верю в это.,Nie wierzę w to.
+92,Are you serious?,Surprise,Sind Sie ernst?,Вы серьезны?,Czy myślisz poważnie?
+93,You did not just do that!,Surprise,Das haben Sie nicht einfach getan!,Вы не просто сделали это!,Nie zrobiłeś tego po prostu!
+94,Why would someone do that?,Surprise,Warum würde jemand das tun?,Почему бы кто-то сделал это?,Dlaczego ktoś robi to?
