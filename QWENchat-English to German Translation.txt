@@ -1,0 +1,77 @@
+### USER
+Translate English to German:
+
+Oh, that is so sweet.
+
+### ASSISTANT
+Oh, das ist so süß.
+
+### USER
+Translate English to German. During the translation, take into account the intended arousal score between 0 and 1 where 0 is low arousal, 0.5 is neutral and 1 is high arousal. 
+Format is going to be:
+<text> (sentense to translate)
+<score> (arousal score)
+
+<text> Oh, that is so sweet.
+<score> 0.75
+
+### ASSISTANT
+Oh, das ist so süß. (0.75)
+
+### USER
+you did not follow the instructions
+
+### ASSISTANT
+You're absolutely right, I apologize for the oversight. Here's the correct format with the translation and the arousal score:
+
+<text> Oh, that is so sweet.  
+<score> 0.75  
+
+And the German translation:  
+**Oh, das ist so süß.** (Arousal score: 0.75)
+
+### USER
+try translating it with different arousal scores
+
+### ASSISTANT
+Certainly! Here are translations of *"Oh, that is so sweet."* into German with different **arousal scores** (ranging from low to high emotional intensity), along with explanations for each:
+
+---
+
+### 1.  
+<text> Oh, that is so sweet.  
+<score> 0.2  
+
+**German:** Oh, das ist nett.  
+**Explanation:** A more subdued and emotionally neutral version using "nett" (nice) instead of "süß" (sweet), which lowers the emotional arousal.
+
+---
+
+### 2.  
+<text> Oh, that is so sweet.  
+<score> 0.5  
+
+**German:** Oh, das ist wirklich süß.  
+**Explanation:** Neutral tone with a standard expression of appreciation. "Wirklich" adds sincerity without increasing emotional intensity too much.
+
+---
+
+### 3.  
+<text> Oh, that is so sweet.  
+<score> 0.75  
+
+**German:** Oh, das ist so süß von dir!  
+**Explanation:** More expressive and warm, adding "von dir" personalizes the statement and increases emotional engagement.
+
+---
+
+### 4.  
+<text> Oh, that is so sweet.  
+<score> 0.9  
+
+**German:** Oh, das ist ja so unglaublich süß!  
+**Explanation:** High arousal version with intensifiers like "ja" and "unglaublich" ("incredibly") to convey strong emotion and enthusiasm.
+
+---
+
+Let me know if you'd like variations in valence (positive/negative tone) as well!
